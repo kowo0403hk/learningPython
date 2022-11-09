@@ -19,4 +19,4 @@ print(phrase[1])
 print(phrase.index("G"))
 print(phrase.index("Acad"))
 
-print(phrase.replace("Giraffe", "Elephant")) 
+print(phrase.replace("Giraffe", "Elephant"))
